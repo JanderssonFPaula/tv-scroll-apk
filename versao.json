@@ -1,4 +1,4 @@
 {
-  "payload": "{\"ativo\": true, \"link\": \"https://github.com/JanderssonFPaula/tv-scroll-apk\", \"mensagem\": \"\", \"versao\": \"1.0.0\"}",
-  "assinatura": "75fab7e1be428e8cd4122ee1064c80abbd875b9156decc2d75b504c55c100030c958ea39ec6340f2edad9b318d4c763541b05a5a5f0145a939c2ee022d35880c"
+  "payload": "{\"ativo\": true, \"link\": \"https://github.com/JanderssonFPaula/tv-scroll-apk/releases/latest\", \"mensagem\": \"\", \"versao\": \"1.1.0\"}",
+  "assinatura": "e7d0fc78ae904284fd1745161f068026e210b4b17554714b53c91ace8d32a5193968bda162fedee8ae741d9176259a420a34cbe95e5c7a62ed0d9ce74297ab01"
 }
